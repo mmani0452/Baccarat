@@ -1,0 +1,22 @@
+# Weaver
+This program is a simple version of th game Baccarat. To view the rules, visit https://www.wikihow.com/Play-Baccarat. This game was made using Java and the GUI was made using JavaFX.
+
+
+## Installation and Usage
+
+### Prerequisites
+Ensure you have a C compiler installed, such as `gcc`.
+
+### Steps:
+1**Ensure dependencies are downloaded**:
+  Java JDK(version 8 or higher)
+  Maven
+2. **Clone The Repository**: 
+   ``bash
+   git clone <repository-url>
+   cd path-to-repository/Weaver
+3. **Compile and run The Program**:
+   mvn clean compile exec:java
+   
+---
+Thank you for taking the time to explore my project. Any feedback or contributions are always welcome
